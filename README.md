@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align=center><h1>📚Tech STACKS📚</h1></div>
+<div align=center><h1>Tech Stacks</h1></div>
 
 <div align=center> 
 <img src="https://img.shields.io/badge/Unity-lightgrey?style=plastic&logo=Unity&logoColor=FFFFFF"/>
-
-<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/C++-blue?style=plastic&logo=C++&logoColor=00599C"/>
 <img src="https://img.shields.io/badge/CSharp-green?style=plastic&logo=CSharp&logoColor=239120"/>
 </div>
