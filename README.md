@@ -1,5 +1,3 @@
-### <div align=center>Hi there 👋</div>
-
 <!--
 **kellylog8/kellylog8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### <div align=center><h2>📚Tech Stacks📚</h2></div>
-
+### <div align=center>Hi there 👋</div>  
+  
+  
+### <div align=center>📚Tech Stacks📚</div>
+<h2></h2>
 
 
 <div align=center> 
