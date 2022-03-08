@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align=center>✨#Tech Stacks✨</div>
+<div align=center>✨### Tech Stacks✨</div>
 
 <div align=center> 
 <img src="https://img.shields.io/badge/Unity-lightgrey?style=plastic&logo=Unity&logoColor=FFFFFF"/>
