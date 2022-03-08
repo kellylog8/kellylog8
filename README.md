@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### <div align=center>📚Tech Stacks📚</div>
-<h2>
+<h2></h2>
 
 
 <div align=center> 
