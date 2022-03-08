@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/CSharp-green?style=plastic&logo=CSharp&logoColor=239120"/>
   
   
-<img src="https://img.shields.io/badge/Unity-999999?style=flat-square&logo=c%2B%2B&logoColor=white">  
-<img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/Unity-999999?style=flat-square&logo=unity&logoColor=white">  
+<img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=white">
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
 <br>
 </div>
