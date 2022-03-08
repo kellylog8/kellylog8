@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### <div align=center>📚Tech Stacks📚</div>
-<h2></h2>
+### <div align=center><h2>📚Tech Stacks📚</h2></div>
+
 
 
 <div align=center> 
