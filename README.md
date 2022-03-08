@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<h2></h2>  
+<h2></h2>
+
 ### <div align=center>📚Tech Stacks📚</div>
 
 <div align=center> 
-### <img src="https://img.shields.io/badge/Unity-lightgrey?style=plastic&logo=Unity&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Unity-lightgrey?style=plastic&logo=Unity&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/C++-blue?style=plastic&logo=C++&logoColor=00599C"/>
 <img src="https://img.shields.io/badge/CSharp-green?style=plastic&logo=CSharp&logoColor=239120"/>
 <br>
