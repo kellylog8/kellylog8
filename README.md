@@ -56,15 +56,11 @@ Here are some ideas to get you started:
 
 
 <div align=center> 
-  <td><img src="https://user-images.githubusercontent.com/81065990/157431308-aa30a1ad-2cb6-413a-a247-cb560ccd06d8.gif" width="50%" height="50%"></td>
-  <td><img src="https://user-images.githubusercontent.com/81065990/157435171-99d2eb7b-e787-41b2-bd64-297e52e1399e.gif" width="50%" height="50%"></td>
+  <td><img src="https://user-images.githubusercontent.com/81065990/157431308-aa30a1ad-2cb6-413a-a247-cb560ccd06d8.gif" width="50%" height="50%"></td><td><img src="https://user-images.githubusercontent.com/81065990/157435171-99d2eb7b-e787-41b2-bd64-297e52e1399e.gif" width="50%" height="50%"></td>
+  
   <br>
-  <td><img src="https://user-images.githubusercontent.com/81065990/157436731-23dfca5b-a5d3-4750-9138-8907a3259d7b.gif" width="50%" height="50%"></td>
   
-  
-  
-  
-
+  <td><img src="https://user-images.githubusercontent.com/81065990/157436731-23dfca5b-a5d3-4750-9138-8907a3259d7b.gif" width="50%" height="50%"></td><td><img src="https://user-images.githubusercontent.com/81065990/157436962-bc183ad7-7d08-492a-8a2e-ec2ed061fa94.gif" width="50%" height="50%"></td>
 </div>
 
 
