@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <div align=center> 
   <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=plastice&logo=VisualStudio&logoColor=white">
   <img src="https://img.shields.io/badge/VisualStudioCode-417598?style=plastice&logo=VisualStudioCode&logoColor=white">
-  <img src="https://img.shields.io/badge/PyCharm-FEC111?style=plastice&logo=PyCharm&logoColor=white">
+  <img src="https://img.shields.io/badge/PyCharm-DDE072?style=plastice&logo=PyCharm&logoColor=white">
   
 
 <br>
