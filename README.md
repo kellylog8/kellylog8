@@ -33,7 +33,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=plastic&logo=Anaconda&logoColor=white">
   <img src="https://img.shields.io/badge/OpenCV-DB7093?style=plastic&logo=OpenCV&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenCV-EF4678?style=plastic&logo=OpenCV&logoColor=white">
 <br>
   
 </div>
