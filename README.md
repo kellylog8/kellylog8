@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### <div align=center>Hi there 👋</div>
+
+<br>
+<br>
+
 #### <div align=center>I'm 3D application developer!</div>
 
 
@@ -39,7 +43,10 @@ Here are some ideas to get you started:
 ### <div align=center>📋I've used📋</div>
 
 <div align=center> 
-<img src="https://img.shields.io/badge/github-181717?style=plastice&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=plastice&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/sourcetree-0052CC?style=plastice&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/trello-0052CC?style=plastice&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/slack-4A154B?style=plastice&logo=github&logoColor=white">
 <br>
 </div>
 
