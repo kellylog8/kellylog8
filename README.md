@@ -44,12 +44,12 @@ Here are some ideas to get you started:
 
 <div align=center> 
   <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=plastice&logo=VisualStudio&logoColor=white">
-  <img src="https://img.shields.io/badge/VisualStudioCode-0B556A?style=plastice&logo=VisualStudioCode&logoColor=white">
+  <img src="https://img.shields.io/badge/VisualStudioCode-417598?style=plastice&logo=VisualStudioCode&logoColor=white">
   <img src="https://img.shields.io/badge/PyCharm-FEC111?style=plastice&logo=PyCharm&logoColor=white">
   
 
 <br>
-  <img src="https://img.shields.io/badge/Slack-7952B3?style=plastice&logo=slack&logoColor=white">
+  <img src="https://img.shields.io/badge/Slack-380953?style=plastice&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/Trello-7764FA?style=plastice&logo=trello&logoColor=white">
   <img src="https://img.shields.io/badge/Github-181717?style=plastice&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=plastice&logo=sourcetree&logoColor=white">
