@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 ### <div align=center>Hi there 👋</div>
 
 <br>
-<br>
 
 #### <div align=center>I'm 3D application developer!</div>
 
+<br>
+<br>
 
 <h2></h2>
 
