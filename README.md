@@ -56,9 +56,7 @@ Here are some ideas to get you started:
 
 
 <div align=center> 
-
-  <img src="https://user-images.githubusercontent.com/81065990/157431308-aa30a1ad-2cb6-413a-a247-cb560ccd06d8.gif" width="50%" height="50%">
-  <img src="https://user-images.githubusercontent.com/81065990/157435171-99d2eb7b-e787-41b2-bd64-297e52e1399e.gif" width="50%" height="50%">
+  <td><img src="https://user-images.githubusercontent.com/81065990/157431308-aa30a1ad-2cb6-413a-a247-cb560ccd06d8.gif" width="50%" height="50%"></td><td><img src="https://user-images.githubusercontent.com/81065990/157435171-99d2eb7b-e787-41b2-bd64-297e52e1399e.gif" width="50%" height="50%"></td>
 </div>
 
 
