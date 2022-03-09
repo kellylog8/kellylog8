@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <div align=center> 
   <img src="https://img.shields.io/badge/slack-7952B3?style=plastice&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/trello-6C78AF?style=plastice&logo=trello&logoColor=white">
-  <img src="https://img.shields.io/badge/trello-8B89CC?style=plastice&logo=trello&logoColor=white">
+  <img src="https://img.shields.io/badge/trello-7764FA?style=plastice&logo=trello&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=plastice&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/sourcetree-0052CC?style=plastice&logo=sourcetree&logoColor=white">
 <br>
