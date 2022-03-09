@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### <div align=center>Hi there 👋</div>
 <br>
-<div align=center>I'm C++ C# Unity developer!</div>
+#### <div align=center>I'm 3D application developer!</div>
 <br>
 
 
@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ### <div align=center>📚Tech Stacks📚</div>
 
 <div align=center> 
+Main
 <img src="https://img.shields.io/badge/Unity-999999?style=plastic&logo=unity&logoColor=white">
 <img src="https://img.shields.io/badge/CSharp-782A90?style=plastic&logo=csharp&logoColor=white">
 <img src="https://img.shields.io/badge/c++-00599C?style=plastic&logo=c%2B%2B&logoColor=white">
