@@ -51,14 +51,13 @@ Here are some ideas to get you started:
 <br>
 </div>
 
+<br>
+<br>
 
 
-
-
-
-
+<div align=center> 
 <img src="https://user-images.githubusercontent.com/81065990/157431308-aa30a1ad-2cb6-413a-a247-cb560ccd06d8.gif" width="50%" height="50%">
-
+</div>
 
 
 
