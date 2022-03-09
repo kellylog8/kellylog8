@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
 ### <div align=center>Hi there 👋</div>
 <br>
+
 #### <div align=center>I'm 3D application developer!</div>
+
 <br>
 
 
