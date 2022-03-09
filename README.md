@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 
 <div align=center> 
   <img src="https://img.shields.io/badge/github-181717?style=plastice&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/sourcetree-0052CC?style=plastice&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/trello-0052CC?style=plastice&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/slack-4A154B?style=plastice&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/sourcetree-0052CC?style=plastice&logo=sourcetree&logoColor=white">
+  <img src="https://img.shields.io/badge/trello-0052CC?style=plastice&logo=trello&logoColor=white">
+  <img src="https://img.shields.io/badge/slack-4A154B?style=plastice&logo=slack&logoColor=white">
 <br>
 </div>
 
