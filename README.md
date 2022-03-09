@@ -50,17 +50,3 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/sourcetree-0052CC?style=plastice&logo=sourcetree&logoColor=white">
 <br>
 </div>
-
-<div>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/uLR1RNqJ1Mw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen></iframe>
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=uLR1RNqJ1Mw" target="_blank"><img src="http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uLR1RNqJ1Mw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen></iframe>
-
-{% include intro.html id="uLR1RNqJ1Mw" %}  
