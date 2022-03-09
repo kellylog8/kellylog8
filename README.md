@@ -19,14 +19,13 @@ Here are some ideas to get you started:
 #### <div align=center>I'm 3D application developer!</div>
 
 <br>
-<br>
 
 <h2></h2>
 
 ### <div align=center>📚Tech Stacks📚</div>
 
 <div align=center> 
-  <img src="https://img.shields.io/badge/c++-00599C?style=plastic&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/CSharp-782A90?style=plastic&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/Unity-999999?style=plastic&logo=unity&logoColor=white">
 <br>
@@ -44,14 +43,13 @@ Here are some ideas to get you started:
 ### <div align=center>📋I've used📋</div>
 
 <div align=center> 
-  <img src="https://img.shields.io/badge/slack-7952B3?style=plastice&logo=slack&logoColor=white">
-  <img src="https://img.shields.io/badge/trello-7764FA?style=plastice&logo=trello&logoColor=white">
-  <img src="https://img.shields.io/badge/github-181717?style=plastice&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/sourcetree-0052CC?style=plastice&logo=sourcetree&logoColor=white">
+  <img src="https://img.shields.io/badge/Slack-7952B3?style=plastice&logo=slack&logoColor=white">
+  <img src="https://img.shields.io/badge/Trello-7764FA?style=plastice&logo=trello&logoColor=white">
+  <img src="https://img.shields.io/badge/Github-181717?style=plastice&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=plastice&logo=sourcetree&logoColor=white">
 <br>
 </div>
 
-<br>
 <br>
 
 <h2></h2>
