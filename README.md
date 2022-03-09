@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSharp-782A90?style=plastic&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/Unity-999999?style=plastic&logo=unity&logoColor=white">
 <br>
-  <img src="https://img.shields.io/badge/WPF-6078FF?style=plastic&logo=.net&logoColor=white">
+  <img src="https://img.shields.io/badge/WinForm/WPF-6078FF?style=plastic&logo=.net&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=plastic&logo=Anaconda&logoColor=white">
   <img src="https://img.shields.io/badge/OpenCV-DB7093?style=plastic&logo=OpenCV&logoColor=white">
